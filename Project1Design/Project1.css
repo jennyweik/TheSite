@@ -1,0 +1,58 @@
+Body{
+  font-family: American Typewriter, sans-serif;
+  color: #252226;
+  font-size: 1.2em;
+  text-align: center;
+  background-color: #efefef;
+  padding-left: 1500;
+  padding-right: 1500;
+}
+h1{
+  font-family: Courier New, monospace;
+  font-size: 4.5em;
+  font-weight: 300;
+  color: #c88e86;
+  text-align: center;
+}
+h2{
+  font-family: Courier New, monospace;
+  font-size:3em;
+  font-weight: 200;
+  color: #c88e86;
+  text-align: center;
+}
+h3{
+  font-family: Courier New, monospace;
+  font-size:3em;
+  font-weight: 200;
+  color: #c88e86;
+  text-align: center;
+}
+h4{
+  font-family: Courier New, monospace;
+  font-size:3em;
+  font-weight: 200;
+  color: #c88e86;
+  text-align: center;
+}
+h5{
+  font-family: Courier New, monospace;
+  font-size:2em;
+  font-weight: 100;
+  color: #c88e86;
+  text-align: center;
+}
+nav{
+  margin-left: 170px;
+  margin-right: 170px;
+  margin-top: 10px;
+  color: #252226;
+}
+a{
+  background-color:#c88e86;
+color:#252226;
+padding: 14px 25px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+}
